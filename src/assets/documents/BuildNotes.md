@@ -18,6 +18,9 @@
 |Primary | | |
 |Secondary | | |
 |Tertiary | | |
+
+[paletton check](http://paletton.com/#uid=55B0u0kiIvGcEJlYyTUOTsjoTe2)
+
 ## Components
 |  | | | |
 | --- | --- | --- | --- |
