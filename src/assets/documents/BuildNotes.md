@@ -3,6 +3,21 @@
 [Figma Dataflow Link](https://www.figma.com/file/KVwCEE4YyHgW0YWCgu5dIR/WhatEvs-Hangaburs---DataFlow?node-id=0%3A1)
 
 ## Wireframe
+[Figma Wireframe Link](https://www.figma.com/file/j7Csul5bflgtd7lLWx48jG/WhatEvs-Hanguburs-Wireframe?node-id=0%3A1)
+
+### Fonts
+- Title:
+- Subtitle:
+- Body:
+
+**NEED TO SELECT FONTS**
+
+### Colors
+| Type | Standard | Deuteranomaly |
+| --- | --- | --- |
+|Primary | | |
+|Secondary | | |
+|Tertiary | | |
 ## Components
 |  | | | |
 | --- | --- | --- | --- |
