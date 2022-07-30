@@ -1,14 +1,28 @@
 # v.1
 ## DataFlow
-[Figma Dataflow Link](https://www.figma.com/file/KVwCEE4YyHgW0YWCgu5dIR/WhatEvs-Hangaburs---DataFlow?node-id=0%3A1) - WIP
+[Figma Dataflow Link](https://www.figma.com/file/KVwCEE4YyHgW0YWCgu5dIR/WhatEvs-Hangaburs---DataFlow?node-id=0%3A1)
+
 ## Wireframe
 ## Components
-|  | | |
-| --- | --- | --- |
-| App.js | Nav.js | Footer.js |
-| Item.js | Menu.js | Button.js |
-| Cart.js | Login.js | Logout.js |
-| About.js | Admin.js | 
+|  | | | |
+| --- | --- | --- | --- |
+| App.js | Nav.js | Footer.js | Item.js | Menu.js | Button.js |
+| Cart.js | Login.js | Logout.js | About.js  
+
+### Details of Components
+- App
+  - Nav
+    - Menu
+      - Categories
+        - Items
+          - Item
+    - About
+    - Auth 
+      - Login
+    - Cart
+  - Button
+  - Logout
+  - Footer
 
 
 ---
